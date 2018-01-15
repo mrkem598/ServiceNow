@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Daily Task" language="en" table="x_185452_hello_wor_daily_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Daily Task</label>
+            <language>en</language>
+            <name>x_185452_hello_wor_daily_task</name>
+            <plural>Daily Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mokemal</sys_created_by>
+            <sys_created_on>2018-01-14 20:22:37</sys_created_on>
+            <sys_id>b6bd9f170f634300ad11cfdce1050e21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Daily Task</sys_name>
+            <sys_package display_value="Hello world" source="x_185452_hello_wor">3aa14e9b0f6f0300ad11cfdce1050ef1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello world">3aa14e9b0f6f0300ad11cfdce1050ef1</sys_scope>
+            <sys_update_name>sys_documentation_x_185452_hello_wor_daily_task__en</sys_update_name>
+            <sys_updated_by>mokemal</sys_updated_by>
+            <sys_updated_on>2018-01-14 20:22:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

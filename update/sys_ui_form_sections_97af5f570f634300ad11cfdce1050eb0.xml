@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="97af5f570f634300ad11cfdce1050eb0" sys_domain="global" table="x_185452_hello_wor_daily_task" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>mokemal</sys_created_by>
+            <sys_created_on>2018-01-14 20:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57af5f570f634300ad11cfdce1050eb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_185452_hello_wor_daily_task" name="x_185452_hello_wor_daily_task" sys_domain="global" view="Default view">97af5f570f634300ad11cfdce1050eb0</sys_ui_form>
+            <sys_ui_section caption="Daily Task Request Form" display_value="Daily Task Request Form" name="x_185452_hello_wor_daily_task" sys_domain="global" view="Default view">854edf930f634300ad11cfdce1050e82</sys_ui_section>
+            <sys_updated_by>mokemal</sys_updated_by>
+            <sys_updated_on>2018-01-14 20:31:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>mokemal</sys_created_by>
+            <sys_created_on>2018-01-15 01:48:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>993820a70fe34300ad11cfdce1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_185452_hello_wor_daily_task" name="x_185452_hello_wor_daily_task" sys_domain="global" view="Default view">97af5f570f634300ad11cfdce1050eb0</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_185452_hello_wor_daily_task" sys_domain="global" view="Default view">d138ac670fe34300ad11cfdce1050ee6</sys_ui_section>
+            <sys_updated_by>mokemal</sys_updated_by>
+            <sys_updated_on>2018-01-15 01:48:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_185452_hello_wor_daily_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>mokemal</sys_created_by>
+            <sys_created_on>2018-01-14 20:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97af5f570f634300ad11cfdce1050eb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_185452_hello_wor_daily_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hello world" source="x_185452_hello_wor">3aa14e9b0f6f0300ad11cfdce1050ef1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello world">3aa14e9b0f6f0300ad11cfdce1050ef1</sys_scope>
+            <sys_update_name>sys_ui_form_sections_97af5f570f634300ad11cfdce1050eb0</sys_update_name>
+            <sys_updated_by>mokemal</sys_updated_by>
+            <sys_updated_on>2018-01-14 20:31:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

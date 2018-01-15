@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Daily Task" max_length="40" name="x_185452_hello_wor_daily_task" type="collection"/>
+</database>
