@@ -12,7 +12,24 @@ If you find yourself unable to import your repository due to the presence of fil
   4. Run `git push`
   
   <img width="900" alt="activity_update" src="https://user-images.githubusercontent.com/23619819/35196930-afeef1cc-fea6-11e7-8dd0-d2c75244d0b5.PNG">
+***
+GlideAggregate
+***
+GlideAggregate help easily create database aggregation queries.
 
+The scoped GlideAggregate class is an extension of GlideRecord and provides database aggregation (COUNT, SUM, MIN, MAX, AVG) queries. This functionality can be helpful when creating customized reports or in calculations for calculated fields. The GlideAggregate class works only on number fields.
+```
+var count = new GlideAggregate('incident');
+count.addAggregate('COUNT');
+count.query();
+var incidents = 0;
+if (count.next()) {
+   incidents = count.getAggregate('COUNT');
+}
+//Number of incidents varies depending on the current state
+//of the incident table
+gs.info('Number of incidents: ' + incidents);
+```
 
 * Overwrite the problem code snapshot with a known good one:
   1. Clone your repository to a personal computer with the git command line tools installed and open a git command prompt in the repository root,
