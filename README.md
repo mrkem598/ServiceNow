@@ -33,7 +33,7 @@ if (count.next()) {
 //of the incident table
 gs.info('Number of incidents: ' + incidents);
 ```
-
+**
 * Overwrite the problem code snapshot with a known good one:
   1. Clone your repository to a personal computer with the git command line tools installed and open a git command prompt in the repository root,
   2. Locate a known good code snapshot and record its SHA1. For this step, `git log` can be useful.
