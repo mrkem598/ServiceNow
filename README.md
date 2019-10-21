@@ -5,7 +5,7 @@
 <img width="800" alt="home_page" src="https://user-images.githubusercontent.com/23619819/35185980-9412fdce-fe04-11e7-9de0-c22548180467.PNG">
 
 
-If you find yourself unable to import your repository due to the presence of files edited outside an instance of ServiceNow, merge commits that mix files from different revisions, or other data that does not match the checksum, you may recover using either of the following techniques:
+ -- If you find yourself unable to import your repository due to the presence of files edited outside an instance of ServiceNow, merge commits that mix files from different revisions, or other data that does not match the checksum, you may recover using either of the following techniques:
 * Remove the problem commits:
   1. Clone your repository to a personal computer with the git command line tools installed and open a git command prompt in the repository root
   2. Run `git log` and take note of the SHA1s of the problem commits
